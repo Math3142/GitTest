@@ -1,1 +1,2 @@
 My text document #1.
+My text document #2.
